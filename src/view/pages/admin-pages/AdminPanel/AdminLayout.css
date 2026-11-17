@@ -1,0 +1,19 @@
+
+.admin-main-content {
+    flex: 1;
+    min-width: 0;
+    min-height: 100vh;
+    padding: 30px;
+
+    background-image:
+        linear-gradient(
+            rgba(245, 246, 250, 0.45),
+  rgba(245, 246, 250, 0.55)
+        ),
+        url("https://thumbs.dreamstime.com/b/event-management-business-background-chalkboard-wooden-176007384.jpg?w=992");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
